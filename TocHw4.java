@@ -9,12 +9,10 @@
 			有->跳出迴圈讀下一行資料
 */
 
-package HW4;
-
 import java.io.*;
 import java.net.*;
 
-public class TocHW4 {
+public class TocHw4 {
 	static URL url;
 	
 	public static void main(String[] args) throws IOException {
